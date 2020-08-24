@@ -1,5 +1,4 @@
 from time import sleep
-
 from telebot import TeleBot
 from config import *
 from threading import Thread
